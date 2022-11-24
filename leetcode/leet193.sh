@@ -1,5 +1,7 @@
 #! /bin/bash
 # 193. Valid Phone Numbers
+# https://leetcode.com/problems/valid-phone-numbers/
+
 file="file.txt"
 
 while read -r line; do
