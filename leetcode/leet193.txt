@@ -1,0 +1,5 @@
+Use [[ ]] in conditional statements.
+=~ matches Regex.
+^ means start and $ means end.
+Use \ for escape characters.
+{3} means repeat the preceding statem,ent 3 times.
