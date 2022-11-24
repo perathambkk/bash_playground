@@ -3,3 +3,7 @@ Use [[ ]] in conditional statements.
 ^ means start and $ means end.
 Use \ for escape characters.
 {3} means repeat the preceding statem,ent 3 times.
+
+See:
+https://unix.stackexchange.com/questions/530350/what-is-the-meaning-of-space-in-bash
+https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html
